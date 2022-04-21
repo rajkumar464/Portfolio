@@ -1,5 +1,5 @@
 # Portfolio
-A collection of some of my work. Please visit my [GitHub profile] (https://github.com/rajkumar464) for more. 
+A collection of some of my work. Please visit my [GitHub profile](https://github.com/rajkumar464) for more. 
 
 # [Project 1 : Music-Classifier](https://github.com/rajkumar464/Music-Classifier)
 * Built a Python web application to classify user-provided input song into 1 of 10 genres and also perform source separation into vocals, bass, drums and accompaniments for music producers, educators and streaming platforms' classification systems. </br>
