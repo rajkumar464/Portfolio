@@ -2,7 +2,8 @@
 A collection of some of my work. Please visit my [GitHub profile](https://github.com/rajkumar464) for more. 
 
 # [Project 1 : Music-Classifier](https://github.com/rajkumar464/Music-Classifier)
-![](https://github.com/rajkumar464/Portfolio/blob/main/images/Classifier-survey.png = 400x400)
+![](https://github.com/rajkumar464/Portfolio/blob/main/images/Classifier-survey.png =400x400)
+<img src="https://github.com/rajkumar464/Portfolio/blob/main/images/Classifier-survey.png" width="100" height="100">
 ![](https://github.com/rajkumar464/Portfolio/blob/main/images/RFC%20performance.png)
 ![](https://github.com/rajkumar464/Portfolio/blob/main/images/Bass.png)
 * Built a Python web application to classify user-provided input song into 1 of 10 genres and also perform source separation into vocals, bass, drums and accompaniments for music producers, educators and streaming platforms' classification systems. </br>
