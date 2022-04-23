@@ -24,7 +24,7 @@ For more information, please check out this presentation : [Presentation](https:
 * For more information, please contact me as the report contains sensitive information.
 
 # [Project 3 : YouTube Channel Analytics Dashboard](https://github.com/rajkumar464/YouTube_Dashboard)
-<img src="images/Analytics%20Dashboard.png" width="300" height="300">
+<img src="images/Analytics%20Dashboard.png">
 * An interactive dashboard to view your channel's performance over several different measures and also analyze each video's performance, built using Streamlit.
 * The dataset contains 4 .csv files pertaining to a YouTuber's channel. Source : Kaggle
 *  The dashboard has two sections :
