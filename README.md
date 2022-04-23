@@ -3,8 +3,8 @@ A collection of some of my work. Please visit my [GitHub profile](https://github
 
 # [Project 1 : Music-Classifier](https://github.com/rajkumar464/Music-Classifier)
 <img src="images/Classifier-survey.png" width="300" height="300">
-<img src="/images/RFC%20performance.png" width="300" height="300">
-<img src="/images/Bass.png" width="300" height="300">
+<img src="images/RFC%20performance.png" width="300" height="300">
+<img src="images/Bass.png" width="300" height="300">
 * Built a Python web application to classify user-provided input song into 1 of 10 genres and also perform source separation into vocals, bass, drums and accompaniments for music producers, educators and streaming platforms' classification systems.
 * Fabricated an ensemble Random Forest Classifier model and trained it on 1000 different songs (100 per genre) and performed better than previous methods based on waveform analysis with an accuracy of 70%.
 * Created 4 CNN masking models to predict binary masks for isolating each element i.e. vocals, bass, percussion and accompaniments, with the bass masking model achieving an accuracy of 96.3%.
@@ -12,8 +12,8 @@ A collection of some of my work. Please visit my [GitHub profile](https://github
 For more information, please check out this presentation : [Presentation](https://docs.google.com/presentation/d/1D4YVrl-OZT2HIdfohhjBfBVMJv2G5B1J7Qx2KvqL_6Y/edit?usp=sharing)
 
 # [Project 2 : User Profiling on Social Media](https://github.com/rajkumar464/User-Profiling-on-Social-Media)
-<img src="/images/Accuracy.png" width="300" height="300">
-<img src="/images/Loss.png" width="300" height="300">
+<img src="images/Accuracy.png" width="300" height="300">
+<img src="images/Loss.png" width="300" height="300">
 * The aim of the project is to build a system that automatically predicts the age category, gender, and personality scores of Facebook users when given input of status updates, profile picture, and "likes" of the users. We have been given 9500 training instances of real sensitive Facebook user data. The program takes input from a source specified by the user and also outputs the results to a user-specified directory
 * The project is three-pronged with 3 team members each using a different source. The three sources used are : 
 1. Text
@@ -24,7 +24,7 @@ For more information, please check out this presentation : [Presentation](https:
 * For more information, please contact me as the report contains sensitive information.
 
 # [Project 3 : YouTube Channel Analytics Dashboard](https://github.com/rajkumar464/YouTube_Dashboard)
-<img src="/images/Analytics%20Dashboard.png" width="300" height="300">
+<img src="images/Analytics%20Dashboard.png" width="300" height="300">
 * An interactive dashboard to view your channel's performance over several different measures and also analyze each video's performance, built using Streamlit.
 * The dataset contains 4 .csv files pertaining to a YouTuber's channel. Source : Kaggle
 *  The dashboard has two sections :
