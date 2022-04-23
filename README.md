@@ -18,4 +18,12 @@ For more information, please check out this presentation : [Presentation](https:
 * Rendered results in XML files stored in a custom local directory upon executing a Linux shell command that took input from a directory specified by the user.</br>
 * For more information, please contact me as the report contains sensitive information.</br>
 
-# [Project 3 : YouTube Channel Analytics Dashboard]
+# [Project 3 : YouTube Channel Analytics Dashboard](https://github.com/rajkumar464/YouTube_Dashboard)
+* An interactive dashboard to view your channel's performance over several different measures and also analyze each video's performance, built using Streamlit.</br>
+* The dataset contains 4 .csv files pertaining to a YouTuber's channel. Source : Kaggle
+*  The dashboard has two sections :
+1. Aggregate Metrics
+* This section displays a few metrics comparing performance over the last 6 months with the entire year.
+2. Individual Video Analysis
+* Here, one can select a particular video and view the geographic distribution of viewers and also their subscriber status.
+* Also, one can observe the rate at which the number of views increases over time, with the 20th percentile, 80th percentile, 50th percentile (median) and increase in views over the first 30 days for the selected video.
