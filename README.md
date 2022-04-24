@@ -1,5 +1,7 @@
 # Portfolio
-A collection of some of my work. Please visit my [GitHub profile](https://github.com/rajkumar464) for more. 
+Welcome! My name is Raj and if I had to describe myself in 3 words I would say that I am extremely motivated, confident in my identity and abilities, but most of all, curious. Knowledge can be gleaned from any source. When I'm not cracking away at a project, I'm listening to podcasts about society, philosophy, nutrition and the human condition while at the gym. When I'm not learning a new skill, I'm reading a book written by my favorite sports athletes, psychologists, and businessmen. And when I'm not working on this website, I'm visiting new restaurants with friends or cooking for them!
+Currently, I am working with the director of data science at my grad school on a security model for human-computer interaction applications using a custom EMG sensor provided by Georgia Tech.
+Out of the projects I've done since my undergrad days starting 2017, here are the 3 most interesting and challenging ones. 
 
 # [Project 1 : Music-Classifier](https://github.com/rajkumar464/Music-Classifier)
 <img src="images/Classifier-survey.png" width="300" height="300">
