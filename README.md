@@ -28,7 +28,6 @@ For more information, please check out this presentation : [Presentation](https:
 # [Project 3 : YouTube Channel Analytics Dashboard](https://github.com/rajkumar464/YouTube_Dashboard)
 <img src="images/Analytics%20Dashboard.png">
 * An interactive dashboard to view your channel's performance over several different measures and also analyze each video's performance, built using Streamlit.
-* The dataset contains 4 .csv files pertaining to a YouTuber's channel. Source : Kaggle
 *  The dashboard has two sections :
 1. Aggregate Metrics
 * This section displays a few metrics comparing performance over the last 6 months with the entire year.
